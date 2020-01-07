@@ -12,5 +12,28 @@
       "name": "Coca Cola Credit",
       "amount": "1500.00"
     }
+  ],
+  ,
+  "barcodes": [
+    {
+      "name": "cash-in",
+      "value": "123-4321-5678-123"
+    },
+    {
+      "name": "payment",
+      "value": "991-3457-0923-456"
+    }
+  ],
+  "credits": [
+    {
+      "name": "NW Credit",
+      "amount": "1000.00",
+      "dueDate": "01-10-2020 00:00:00"
+    },
+    {
+      "name": "Coca Cola Credit",
+      "amount": "1500.00",
+      "dueDate": "01-15-2020 00:00:00"
+    }
   ]
 }
