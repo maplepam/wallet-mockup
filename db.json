@@ -22,5 +22,43 @@
       "name": "payment",
       "value": "991-3457-0923-456"
     }
+  ],
+  "credits": [
+    {
+      "name": "NW Credit",
+      "amount": "1000.00",
+      "dueDate": "01-10-2020 00:00:00"
+    },
+    {
+      "name": "Coca Cola Credit",
+      "amount": "1500.00",
+      "dueDate": "01-15-2020 00:00:00"
+    }
+  ],
+  "histories": [
+    {
+      "name": "Cash Wallet",
+      "type": "cash-in",
+      "dateCreated": "01-07-2020 00:00:00",
+      "amount": "5000.00"
+    },
+    {
+      "name": "Cash Wallet",
+      "type": "payment",
+      "dateCreated": "01-07-2020 00:00:00",
+      "amount": "5000.00"
+    },
+    {
+      "name": "Coca Cola Credit",
+      "type": "payment",
+      "dateCreated": "01-07-2020 00:00:00",
+      "amount": "5000.00"
+    },
+    {
+      "name": "NW Credit",
+      "type": "payment",
+      "dateCreated": "01-07-2020 00:00:00",
+      "amount": "5000.00"
+    }
   ]
 }
