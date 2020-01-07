@@ -3,17 +3,17 @@
     {
       "name": "Cash Wallet",
       "amount": "2000.00",
-      "iconUrl": "https://cdn1.iconfinder.com/data/icons/business-and-finance-97/64/wallet-money-finance-cash-dollar-512.png"
+      "imageUrl": "https://cdn1.iconfinder.com/data/icons/business-and-finance-97/64/wallet-money-finance-cash-dollar-512.png"
     },
     {
       "name": "NW Credit",
       "amount": "5000.00",
-      "iconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/f0/90/53/f09053d2-faff-00dc-669d-554a32e5eb8d/AppIcon-1x_U007emarketing-85-220-0-5.png/1200x630wa.png"
+      "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/f0/90/53/f09053d2-faff-00dc-669d-554a32e5eb8d/AppIcon-1x_U007emarketing-85-220-0-5.png/1200x630wa.png"
     },
     {
       "name": "Coca Cola Credit",
       "amount": "1500.00",
-      "iconUrl": "http://img4.wikia.nocookie.net/__cb20130915082005/logopedia/images/a/a8/Coca-Cola_1950.png"
+      "imageUrl": "http://img4.wikia.nocookie.net/__cb20130915082005/logopedia/images/a/a8/Coca-Cola_1950.png"
     }
   ],
   "barcodes": [
