@@ -40,6 +40,7 @@
   ],
   "histories": [
     {
+      "id": "00001",
       "name": "Cash Wallet",
       "type": "cash-in",
       "dateCreated": "01-07-2020 00:00:00",
@@ -47,6 +48,7 @@
       "remarks": ""
     },
     {
+      "id": "00002",
       "name": "Cash Wallet",
       "type": "payment",
       "dateCreated": "01-07-2020 00:00:00",
@@ -54,6 +56,7 @@
       "remarks": ""
     },
     {
+      "id": "00003",
       "name": "Coca Cola Credit",
       "type": "payment",
       "dateCreated": "01-07-2020 00:00:00",
@@ -61,6 +64,7 @@
       "remarks": "Credit Card Payment"
     },
     {
+      "id": "00004",
       "name": "NW Credit",
       "type": "payment",
       "dateCreated": "01-07-2020 00:00:00",
@@ -68,6 +72,7 @@
       "remarks": "Credit Card Payment"
     },
     {
+      "id": "00005",
       "name": "NW Credit",
       "type": "purchase",
       "dateCreated": "01-10-2020 00:00:00",
