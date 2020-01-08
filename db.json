@@ -43,25 +43,36 @@
       "name": "Cash Wallet",
       "type": "cash-in",
       "dateCreated": "01-07-2020 00:00:00",
-      "amount": "5000.00"
+      "amount": "5000.00",
+      "remarks": ""
     },
     {
       "name": "Cash Wallet",
       "type": "payment",
       "dateCreated": "01-07-2020 00:00:00",
-      "amount": "5000.00"
+      "amount": "5000.00",
+      "remarks": ""
     },
     {
       "name": "Coca Cola Credit",
       "type": "payment",
       "dateCreated": "01-07-2020 00:00:00",
-      "amount": "5000.00"
+      "amount": "5000.00",
+      "remarks": ""
     },
     {
       "name": "NW Credit",
       "type": "payment",
       "dateCreated": "01-07-2020 00:00:00",
-      "amount": "5000.00"
+      "amount": "5000.00",
+      "remarks": "Credit Card Payment"
+    },
+    {
+      "name": "NW Credit",
+      "type": "purchase",
+      "dateCreated": "01-10-2020 00:00:00",
+      "amount": "2000.00",
+      "remarks": "Purchase"
     }
   ]
 }
