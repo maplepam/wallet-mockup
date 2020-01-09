@@ -79,5 +79,8 @@
       "amount": "2000.00",
       "remarks": "Purchase"
     }
-  ]
+  ],
+  "cashin-success": {
+    "barcode":"9912-123-345-1234"
+  }
 }
