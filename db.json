@@ -30,12 +30,12 @@
     {
       "name": "NW Credit",
       "amount": "1000.00",
-      "dueDate": "01-10-2020 00:00:00"
+      "dueDate": "2020-01-12T00:00:00"
     },
     {
       "name": "Coca Cola Credit",
       "amount": "1500.00",
-      "dueDate": "01-15-2020 00:00:00"
+      "dueDate": "2020-01-10T00:00:00"
     }
   ],
   "histories": [
