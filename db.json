@@ -80,11 +80,15 @@
       "remarks": "Purchase"
     }
   ],
-  "cashin-success": {
-    "barcode":"9912-123-345-1234"
-  },
-  "payment-success": {
-    "code":200,
-    "message": "Success!"
-  }
+  "success": [
+    {
+      "type": "cashin-success",
+      "barcode":"9912-123-345-1234"
+    },
+    {
+      "type": "payment-success",
+      "code":200,
+      "message": "Success!"
+    }
+  ]
 }
