@@ -82,5 +82,9 @@
   ],
   "cashin-success": {
     "barcode":"9912-123-345-1234"
+  },
+  "payment-success": {
+    "code":200,
+    "message": "Success!"
   }
 }
