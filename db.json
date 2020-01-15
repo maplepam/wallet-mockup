@@ -93,7 +93,8 @@
     {
       "type": "payment-success",
       "code": 200,
-      "message": "Success!"
+      "message": "Success!",
+      "barcode": "9912-123-123-456"
     }
   ]
 }
