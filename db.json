@@ -86,8 +86,13 @@
       "barcode":"9912-123-345-1234"
     },
     {
+      "type": "credit-payment-success",
+      "code": 200,
+      "message": "Success!"
+    },
+    {
       "type": "payment-success",
-      "code":200,
+      "code": 200,
       "message": "Success!"
     }
   ]
