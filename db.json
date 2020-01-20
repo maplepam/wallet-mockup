@@ -95,6 +95,11 @@
       "code": 200,
       "message": "Success!",
       "barcode": "9912-123-123-456"
+    },
+    {
+      "type": "payment-scan-success",
+      "code": 200,
+      "message": "Success!"
     }
   ]
 }
